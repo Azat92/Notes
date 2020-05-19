@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Notes
+
+  Created by Azat Almeev on 29.04.2020.
+  Copyright © 2020 Azat Almeev. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Nөtizen";
+"NSCameraUsageDescription" = "Hinzufügen von Anhängen mit der Kamera";
+"NSLocationWhenInUseUsageDescription" = "Um Ihren aktuellen Standort auf der Karte anzuzeigen";

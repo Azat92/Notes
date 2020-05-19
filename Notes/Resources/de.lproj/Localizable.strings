@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Azat Almeev on 19.04.2020.
+  Copyright © 2020 Azat Almeev. All rights reserved.
+*/
+
+"general.ok.title" = "OK";
+"general.cancel.title" = "Abbrechen";
+"general.save.title" = "Speichern";
+"general.done.title" = "Fertig";
+"general.choose.title" = "Auswählen";
+"general.actions.title" = "Aktionen";
+"general.preview.title" = "Vorschau";
+"general.delete.title" = "Löschen";
+"business.general-mode.title" = "Modus";
+"business.category.title" = "Kategorie";
+"business.categories.title" = "Kategorien";
+"business.attachments.title" = "Anhänge";
+"business.note-title.title" = "Titel";
+"business.note-description.title" = "Beschreibung";
+"business.attachments.type.date-time.title" = "Datum / Uhrzeit";
+"business.attachments.type.date-time.mode.date-and-time.title" = "Datum und Uhrzeit";
+"business.attachments.type.date-time.mode.date.title" = "Datum";
+"business.attachments.type.date-time.mode.time.title" = "Uhrzeit";
+"business.attachments.type.gallery.title" = "Galerie";
+"business.attachments.type.camera.title" = "Kamera";
+"business.attachments.type.image.title" = "Bild";
+"business.attachments.type.web-link.title" = "Weblink";
+"business.attachments.type.geolocation.title" = "Geolocation";
+"business.attachments.type.geolocation.tap-to-see-details.title" = "Tippen zum Details";
+"placeholder.name.title" = "Den Namen eingeben";

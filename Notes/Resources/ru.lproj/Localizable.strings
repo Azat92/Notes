@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Azat Almeev on 19.04.2020.
+  Copyright © 2020 Azat Almeev. All rights reserved.
+*/
+
+"general.ok.title" = "OK";
+"general.cancel.title" = "Отмена";
+"general.save.title" = "Сохранить";
+"general.done.title" = "Готово";
+"general.choose.title" = "Выбрать";
+"general.actions.title" = "Действия";
+"general.preview.title" = "Просмотр";
+"general.delete.title" = "Удалить";
+"business.general-mode.title" = "Режим";
+"business.category.title" = "Категория";
+"business.categories.title" = "Категории";
+"business.attachments.title" = "Вложения";
+"business.note-title.title" = "Заголовок";
+"business.note-description.title" = "Описание";
+"business.attachments.type.date-time.title" = "Дата / время";
+"business.attachments.type.date-time.mode.date-and-time.title" = "Дата и время";
+"business.attachments.type.date-time.mode.date.title" = "Дата";
+"business.attachments.type.date-time.mode.time.title" = "Вермя";
+"business.attachments.type.gallery.title" = "Галерея";
+"business.attachments.type.camera.title" = "Камера";
+"business.attachments.type.image.title" = "Изображение";
+"business.attachments.type.web-link.title" = "Web-ссылка";
+"business.attachments.type.geolocation.title" = "Геолокация";
+"business.attachments.type.geolocation.tap-to-see-details.title" = "Нажмите для деталей";
+"placeholder.name.title" = "Введите название";
